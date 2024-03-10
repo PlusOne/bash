@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Upgrading Matomo Analytics"
+echo "Upgrading Matomo Analytics 0.1"
 
 # Function to update the status bar
 print_bar() {
